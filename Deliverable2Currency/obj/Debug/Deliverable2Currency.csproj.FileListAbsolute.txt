@@ -1,0 +1,7 @@
+C:\Users\lisaa\source\repos\Deliverable2Currency\Deliverable2Currency\bin\Debug\Deliverable2Currency.exe.config
+C:\Users\lisaa\source\repos\Deliverable2Currency\Deliverable2Currency\bin\Debug\Deliverable2Currency.exe
+C:\Users\lisaa\source\repos\Deliverable2Currency\Deliverable2Currency\bin\Debug\Deliverable2Currency.pdb
+C:\Users\lisaa\source\repos\Deliverable2Currency\Deliverable2Currency\obj\Debug\Deliverable2Currency.csprojAssemblyReference.cache
+C:\Users\lisaa\source\repos\Deliverable2Currency\Deliverable2Currency\obj\Debug\Deliverable2Currency.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\source\repos\Deliverable2Currency\Deliverable2Currency\obj\Debug\Deliverable2Currency.exe
+C:\Users\lisaa\source\repos\Deliverable2Currency\Deliverable2Currency\obj\Debug\Deliverable2Currency.pdb
